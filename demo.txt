@@ -1,3 +1,0 @@
-this is a github learning session
-press ctrl+s 
-this is a new line
